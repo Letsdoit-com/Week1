@@ -1,6 +1,6 @@
 Question	Article	Practice
 - [x] Reverse an Array/String	Link	Link
-- [ ] Find the maximum and minimum element in an array	Link	Lin
+- [x] Find the maximum and minimum element in an array	Link	Lin
 - [ ]  
 - [ ]  
 Find the “Kth” max and min element of an array	Link	Link
