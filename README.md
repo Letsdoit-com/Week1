@@ -1,6 +1,8 @@
 Question	Article	Practice
 - [ ] Reverse an Array/String	Link	Link
-Find the maximum and minimum element in an array	Link	Link
+- [ ] Find the maximum and minimum element in an array	Link	Lin
+- [ ]  
+- [ ]  
 Find the “Kth” max and min element of an array	Link	Link
 Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo	Link	Link
 Move all the negative elements to one side of the array	Link	Link
