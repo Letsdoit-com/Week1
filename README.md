@@ -1,5 +1,5 @@
 Question	Article	Practice
-- [ ] Reverse an Array/String	Link	Link
+- [x] Reverse an Array/String	Link	Link
 - [ ] Find the maximum and minimum element in an array	Link	Lin
 - [ ]  
 - [ ]  
